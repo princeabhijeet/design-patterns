@@ -1,13 +1,13 @@
 ## design-patterns
 
-#Creational Design Pattern
+# Creational Design Pattern
 1. Factory
 2. Abstract Factory
 3. Builder
 4. Singleton
 5. Prototype
 
-#Structural "#2E3E4A"n Pattern
+# Structural Design Pattern
 1. Adapter
 2. Bridge
 3. Composite
@@ -16,7 +16,7 @@
 6. Flyweight
 7. Proxy
 
-#Behavioural Design Pattern
+# Behavioural Design Pattern
 1. Chain Of Responsibility
 2. Command
 3. Interpreter
@@ -29,7 +29,7 @@
 10. Template
 11. Visitor
 
-#Microservices Design Pattern
+# Microservices Design Pattern
 1. Saga
 2. Circuit Breaker
 3. API Gateway
